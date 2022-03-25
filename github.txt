@@ -1,0 +1,23 @@
+Batch job User synchronization failed. Please find the server log attached.
+
+Batch job NewTerminatedUserScheduler failed. Please find the server log attached.
+
+
+
+.Is-PGNonERP-SARA-Next-L2-Distinct
+
+
+Muruga@5070#
+
+Madeleine Y. Andersson
+
+
+Hi Phantiwa ,
+we are From SaraNext SupportTeam
+From your screenshot please remove saml/SSO from URL.
+
+
+velurukaveri.mail@gmail.com
+Hanuman@5070#
+sandeepsandeep
+HanumaRama
